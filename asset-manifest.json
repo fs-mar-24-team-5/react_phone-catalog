@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cbc447cb.css",
+    "main.js": "./static/js/main.861f3ce4.js",
+    "static/media/Logo.svg": "./static/media/Logo.17c0e2d16691379ae32800c756d6d64a.svg",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/Shopping bag.svg": "./static/media/Shopping bag.f9632dca8fdaed9bb696b99ac28006ba.svg",
+    "static/media/Favourites.svg": "./static/media/Favourites.670cf5136eb8aecd15dcbb439577b93e.svg",
+    "static/media/Close.svg": "./static/media/Close.3ea864f59fecb8596c4be9c8a455c02a.svg",
+    "static/media/Menu.svg": "./static/media/Menu.744ac0b04d84e4feeeb5288d215af5b2.svg",
+    "static/media/ArrowLeftBold.svg": "./static/media/ArrowLeftBold.74ad2c5e6f257a5f3a97e41641582d1c.svg",
+    "static/media/ArrowDown.svg": "./static/media/ArrowDown.98c9dd6d98b47f2f1977e301cf0fa429.svg",
+    "static/media/ArrowUp.svg": "./static/media/ArrowUp.1ea6958a07717117d3d583ab6fe7dcbd.svg",
+    "index.html": "./index.html",
+    "main.cbc447cb.css.map": "./static/css/main.cbc447cb.css.map",
+    "main.861f3ce4.js.map": "./static/js/main.861f3ce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc447cb.css",
+    "static/js/main.861f3ce4.js"
+  ]
+}
