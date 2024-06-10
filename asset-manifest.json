@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_phone-catalog/static/css/main.92e6880c.css",
-    "main.js": "/react_phone-catalog/static/js/main.72ae549b.js",
+    "main.css": "/react_phone-catalog/static/css/main.ed56df9e.css",
+    "main.js": "/react_phone-catalog/static/js/main.ceee3172.js",
     "static/media/Logo.svg": "/react_phone-catalog/static/media/Logo.17c0e2d16691379ae32800c756d6d64a.svg",
     "static/media/Mont-Regular.otf": "/react_phone-catalog/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "/react_phone-catalog/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
@@ -20,11 +20,11 @@
     "static/media/ArrowUp.svg": "/react_phone-catalog/static/media/ArrowUp.1ea6958a07717117d3d583ab6fe7dcbd.svg",
     "static/media/Minus.svg": "/react_phone-catalog/static/media/Minus.cecb4be39afa7b933ec169dd495a73ff.svg",
     "index.html": "/react_phone-catalog/index.html",
-    "main.92e6880c.css.map": "/react_phone-catalog/static/css/main.92e6880c.css.map",
-    "main.72ae549b.js.map": "/react_phone-catalog/static/js/main.72ae549b.js.map"
+    "main.ed56df9e.css.map": "/react_phone-catalog/static/css/main.ed56df9e.css.map",
+    "main.ceee3172.js.map": "/react_phone-catalog/static/js/main.ceee3172.js.map"
   },
   "entrypoints": [
-    "static/css/main.92e6880c.css",
-    "static/js/main.72ae549b.js"
+    "static/css/main.ed56df9e.css",
+    "static/js/main.ceee3172.js"
   ]
 }
