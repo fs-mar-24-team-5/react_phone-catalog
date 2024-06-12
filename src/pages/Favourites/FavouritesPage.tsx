@@ -1,32 +1,17 @@
-import { useEffect, useState } from 'react';
-// import { ProductCard } from '../../components/ProductCard/ProductCard';
 import styles from './FavouritesPage.module.scss';
+import { useSelector } from 'react-redux';
+import { selectAllProducts, selectfavorites } from '../../redux';
+import { ProductCard } from '../../components/ProductCard/ProductCard';
 
 export const FavouritesPage = () => {
-  const [favouriteGoods, setFavouriteGoods] = useState<string[]>([]);
+  const productsFromServer = useSelector(selectAllProducts);
+  const favouritesFromServer = useSelector(selectfavorites);
 
-  const favourArr = [
-    'good1',
-    'good2',
-    'good3',
-    'good4',
-    'good5',
-    'good6',
-    'good7',
-  ];
-  const storageArr = JSON.stringify(favourArr);
+  const favouriteProducts = productsFromServer.filter(product =>
+    favouritesFromServer.includes(product.itemId),
+  );
 
-  window.localStorage.setItem('favourites', storageArr);
-
-  useEffect(() => {
-    const storedFavourites = window.localStorage.getItem('favourites');
-
-    if (storedFavourites) {
-      setFavouriteGoods(JSON.parse(storedFavourites));
-    }
-  }, []);
-
-  const goodsLength = favouriteGoods.length;
+  const goodsLength = favouritesFromServer.length;
 
   return (
     <div className={styles.page__container}>
@@ -35,12 +20,14 @@ export const FavouritesPage = () => {
 
       <div className={styles.products}>
         {goodsLength === 0 ? (
-          <div>There are no goods in your favourite list</div>
+          <div className={styles.products__empty}>
+            There are no goods in your favourite list
+          </div>
         ) : (
-          favouriteGoods.map(item => {
+          favouriteProducts.map(item => {
             return (
-              <div key={item} className={styles.product}>
-                {/* <ProductCard /> */}
+              <div key={item.itemId} className={styles.product}>
+                <ProductCard product={item} />
               </div>
             );
           })

@@ -41,6 +41,10 @@
   @include on-tablet {
     padding-bottom: 80px;
   }
+
+  &__empty {
+    grid-column: 1 / -1;
+  }
 }
 
 .product {
