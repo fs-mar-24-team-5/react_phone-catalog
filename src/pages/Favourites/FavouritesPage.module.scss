@@ -4,6 +4,8 @@
 .page {
   &__container {
     @include container;
+
+    padding-block: 24px;
   }
 }
 
