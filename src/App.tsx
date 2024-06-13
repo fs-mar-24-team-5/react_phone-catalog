@@ -14,6 +14,10 @@ export const App = () => {
 
   useEffect(() => {
     dispatch(fetchProducts());
+    // dummy request for testing purposes, to be removed
+    fetch('api/mock')
+      .then(response => response.json())
+      .then(data => console.log(data));
   }, [dispatch]);
 
   return (

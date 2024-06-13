@@ -12,6 +12,12 @@ import './index.scss';
 import { PersistGate } from 'redux-persist/integration/react';
 import { Suspense } from 'react';
 
+import('./mocks/browser').then(({ worker }) => {
+  worker.start({
+      onUnhandledRequest: 'bypass',
+  });
+});
+
 createRoot(document.getElementById('root') as HTMLElement).render(
   <Provider store={store}>
     <Suspense fallback={<div>Loading...</div>}>
