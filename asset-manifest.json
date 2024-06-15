@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_phone-catalog/static/css/main.b78405b5.css",
-    "main.js": "/react_phone-catalog/static/js/main.a2f52e0b.js",
+    "main.css": "/react_phone-catalog/static/css/main.cfde17f7.css",
+    "main.js": "/react_phone-catalog/static/js/main.f5441057.js",
     "static/media/Logo.svg": "/react_phone-catalog/static/media/Logo.17c0e2d16691379ae32800c756d6d64a.svg",
     "static/media/LogoDark.svg": "/react_phone-catalog/static/media/LogoDark.83874b1848b1220f986925bc0bf7cb18.svg",
     "static/media/darkMetal.png": "/react_phone-catalog/static/media/darkMetal.98a33bbe7d2c73a2b9e4.png",
@@ -22,6 +22,7 @@
     "static/media/Favourites.svg": "/react_phone-catalog/static/media/Favourites.670cf5136eb8aecd15dcbb439577b93e.svg",
     "static/media/Home.svg": "/react_phone-catalog/static/media/Home.d4c29e4f137b3a79235a5293536d71a0.svg",
     "static/media/Favourites Filled.svg": "/react_phone-catalog/static/media/Favourites Filled.d554a185325e4fb0609231b1cff64b18.svg",
+    "static/media/github.svg": "/react_phone-catalog/static/media/github.d1e8567b86c337866a1516bcdff3f479.svg",
     "static/media/Close.svg": "/react_phone-catalog/static/media/Close.3ea864f59fecb8596c4be9c8a455c02a.svg",
     "static/media/Menu.svg": "/react_phone-catalog/static/media/Menu.744ac0b04d84e4feeeb5288d215af5b2.svg",
     "static/media/Plus.svg": "/react_phone-catalog/static/media/Plus.dea157243cc9d361ac05ab671dbec40b.svg",
@@ -36,11 +37,11 @@
     "index.html": "/react_phone-catalog/index.html",
     "static/media/Search.svg": "/react_phone-catalog/static/media/Search.a6272dbafd39340b08eef5d3d6711933.svg",
     "static/media/getFetch.cjs": "/react_phone-catalog/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.b78405b5.css.map": "/react_phone-catalog/static/css/main.b78405b5.css.map",
-    "main.a2f52e0b.js.map": "/react_phone-catalog/static/js/main.a2f52e0b.js.map"
+    "main.cfde17f7.css.map": "/react_phone-catalog/static/css/main.cfde17f7.css.map",
+    "main.f5441057.js.map": "/react_phone-catalog/static/js/main.f5441057.js.map"
   },
   "entrypoints": [
-    "static/css/main.b78405b5.css",
-    "static/js/main.a2f52e0b.js"
+    "static/css/main.cfde17f7.css",
+    "static/js/main.f5441057.js"
   ]
 }
