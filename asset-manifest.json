@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "/react_phone-catalog/static/css/main.0e258365.css",
-    "main.js": "/react_phone-catalog/static/js/main.1bb7b229.js",
+    "main.css": "/react_phone-catalog/static/css/main.adcafaab.css",
+    "main.js": "/react_phone-catalog/static/js/main.6e3b7d1f.js",
+    "static/media/cartoon-angry-cat-Graphics-68858337-1.png": "/react_phone-catalog/static/media/cartoon-angry-cat-Graphics-68858337-1.17d93c066d8691c83ea1.png",
+    "static/media/banner_02.png": "/react_phone-catalog/static/media/banner_02.4ba37352bee4f79d3b76.png",
+    "static/media/banner_04.png": "/react_phone-catalog/static/media/banner_04.72ff8d8f27bd42be6443.png",
     "static/media/Logo.svg": "/react_phone-catalog/static/media/Logo.17c0e2d16691379ae32800c756d6d64a.svg",
     "static/media/LogoDark.svg": "/react_phone-catalog/static/media/LogoDark.83874b1848b1220f986925bc0bf7cb18.svg",
     "static/media/darkMetal.png": "/react_phone-catalog/static/media/darkMetal.98a33bbe7d2c73a2b9e4.png",
@@ -9,14 +12,21 @@
     "static/media/Mont-SemiBold.otf": "/react_phone-catalog/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "/react_phone-catalog/static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
     "static/media/Fam.png": "/react_phone-catalog/static/media/Fam.b13355e7f02a5ab57348.png",
-    "static/media/banner.png": "/react_phone-catalog/static/media/banner.b35b9159ea478d8b614f.png",
+    "static/media/banner_03.png": "/react_phone-catalog/static/media/banner_03.017d384499dce2b8f9de.png",
+    "static/media/banner_phone_04.png": "/react_phone-catalog/static/media/banner_phone_04.5ef1ca7aa3ebae8429d7.png",
     "static/media/FamyFav.png": "/react_phone-catalog/static/media/FamyFav.e6d828ef0618f9ece7e4.png",
     "static/media/product_not_found.png": "/react_phone-catalog/static/media/product_not_found.5501245848aa2dc02585.png",
+    "static/media/banner_01.png": "/react_phone-catalog/static/media/banner_01.1adf2cb945aeb8eee091.png",
     "static/media/accessories.png": "/react_phone-catalog/static/media/accessories.b914f4124f0dab3439fb.png",
+    "static/media/banner_tablet_02.png": "/react_phone-catalog/static/media/banner_tablet_02.852a6f1d8a28b6d53be2.png",
+    "static/media/banner_tablet_04.png": "/react_phone-catalog/static/media/banner_tablet_04.4f3e3ed4234a63f6be69.png",
     "static/media/tablets.png": "/react_phone-catalog/static/media/tablets.46c067df55e5a7b7850c.png",
     "static/media/phone.png": "/react_phone-catalog/static/media/phone.d59e015af6b05b71005c.png",
-    "static/media/banner_phone.png": "/react_phone-catalog/static/media/banner_phone.c5f09f6eae711c8e6cbf.png",
-    "static/media/banner_tablet.png": "/react_phone-catalog/static/media/banner_tablet.751f3fb1697d696358d4.png",
+    "static/media/banner_phone_02.png": "/react_phone-catalog/static/media/banner_phone_02.5a37c37dc5d0638ce766.png",
+    "static/media/banner_phone_01.png": "/react_phone-catalog/static/media/banner_phone_01.03febd44743d17f30591.png",
+    "static/media/banner_phone_03.png": "/react_phone-catalog/static/media/banner_phone_03.eaf7ae7430d015d5c61a.png",
+    "static/media/banner_tablet_01.png": "/react_phone-catalog/static/media/banner_tablet_01.b6c56f313bfd72b042bb.png",
+    "static/media/banner_tablet_03.png": "/react_phone-catalog/static/media/banner_tablet_03.fd6c9214b2fa34132789.png",
     "static/media/backIron.png": "/react_phone-catalog/static/media/backIron.f47c5d44e322c370aca8.png",
     "static/media/Shopping bag.svg": "/react_phone-catalog/static/media/Shopping bag.f9632dca8fdaed9bb696b99ac28006ba.svg",
     "static/media/Favourites.svg": "/react_phone-catalog/static/media/Favourites.670cf5136eb8aecd15dcbb439577b93e.svg",
@@ -37,11 +47,11 @@
     "index.html": "/react_phone-catalog/index.html",
     "static/media/Search.svg": "/react_phone-catalog/static/media/Search.a6272dbafd39340b08eef5d3d6711933.svg",
     "static/media/getFetch.cjs": "/react_phone-catalog/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.0e258365.css.map": "/react_phone-catalog/static/css/main.0e258365.css.map",
-    "main.1bb7b229.js.map": "/react_phone-catalog/static/js/main.1bb7b229.js.map"
+    "main.adcafaab.css.map": "/react_phone-catalog/static/css/main.adcafaab.css.map",
+    "main.6e3b7d1f.js.map": "/react_phone-catalog/static/js/main.6e3b7d1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e258365.css",
-    "static/js/main.1bb7b229.js"
+    "static/css/main.adcafaab.css",
+    "static/js/main.6e3b7d1f.js"
   ]
 }
