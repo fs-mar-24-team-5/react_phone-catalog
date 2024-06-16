@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_phone-catalog/static/css/main.d90d06d1.css",
+    "main.css": "/react_phone-catalog/static/css/main.72902e90.css",
     "main.js": "/react_phone-catalog/static/js/main.1a37f01b.js",
     "static/media/cartoon-angry-cat-Graphics-68858337-1.png": "/react_phone-catalog/static/media/cartoon-angry-cat-Graphics-68858337-1.17d93c066d8691c83ea1.png",
     "static/media/banner_02.png": "/react_phone-catalog/static/media/banner_02.4ba37352bee4f79d3b76.png",
@@ -47,11 +47,11 @@
     "static/media/Minus.svg": "/react_phone-catalog/static/media/Minus.cecb4be39afa7b933ec169dd495a73ff.svg",
     "static/media/getFetch.cjs": "/react_phone-catalog/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
     "static/media/Search.svg": "/react_phone-catalog/static/media/Search.6bc58f9b30c941000c3df8c9684fe09d.svg",
-    "main.d90d06d1.css.map": "/react_phone-catalog/static/css/main.d90d06d1.css.map",
+    "main.72902e90.css.map": "/react_phone-catalog/static/css/main.72902e90.css.map",
     "main.1a37f01b.js.map": "/react_phone-catalog/static/js/main.1a37f01b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d90d06d1.css",
+    "static/css/main.72902e90.css",
     "static/js/main.1a37f01b.js"
   ]
 }
