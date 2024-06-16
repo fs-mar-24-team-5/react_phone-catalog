@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/react_phone-catalog/static/css/main.adcafaab.css",
-    "main.js": "/react_phone-catalog/static/js/main.394dbb1c.js",
+    "main.css": "/react_phone-catalog/static/css/main.d90d06d1.css",
+    "main.js": "/react_phone-catalog/static/js/main.3fc4534d.js",
     "static/media/cartoon-angry-cat-Graphics-68858337-1.png": "/react_phone-catalog/static/media/cartoon-angry-cat-Graphics-68858337-1.17d93c066d8691c83ea1.png",
     "static/media/banner_02.png": "/react_phone-catalog/static/media/banner_02.4ba37352bee4f79d3b76.png",
     "static/media/banner_04.png": "/react_phone-catalog/static/media/banner_04.72ff8d8f27bd42be6443.png",
+    "static/media/Search_not_found.png": "/react_phone-catalog/static/media/Search_not_found.195b50be80e41177bab5.png",
     "static/media/Logo.svg": "/react_phone-catalog/static/media/Logo.17c0e2d16691379ae32800c756d6d64a.svg",
     "static/media/LogoDark.svg": "/react_phone-catalog/static/media/LogoDark.83874b1848b1220f986925bc0bf7cb18.svg",
     "static/media/darkMetal.png": "/react_phone-catalog/static/media/darkMetal.98a33bbe7d2c73a2b9e4.png",
@@ -31,6 +32,7 @@
     "static/media/Shopping bag.svg": "/react_phone-catalog/static/media/Shopping bag.f9632dca8fdaed9bb696b99ac28006ba.svg",
     "static/media/Favourites.svg": "/react_phone-catalog/static/media/Favourites.670cf5136eb8aecd15dcbb439577b93e.svg",
     "static/media/Home.svg": "/react_phone-catalog/static/media/Home.d4c29e4f137b3a79235a5293536d71a0.svg",
+    "static/media/gitWhite.svg": "/react_phone-catalog/static/media/gitWhite.12cc145fd58e9a21c4376a1500e94377.svg",
     "static/media/Favourites Filled.svg": "/react_phone-catalog/static/media/Favourites Filled.d554a185325e4fb0609231b1cff64b18.svg",
     "static/media/github.svg": "/react_phone-catalog/static/media/github.d1e8567b86c337866a1516bcdff3f479.svg",
     "static/media/Close.svg": "/react_phone-catalog/static/media/Close.3ea864f59fecb8596c4be9c8a455c02a.svg",
@@ -41,17 +43,15 @@
     "static/media/ArrowDown.svg": "/react_phone-catalog/static/media/ArrowDown.314c8710dd467611bf4d5c884f087d44.svg",
     "static/media/ArrowRight.svg": "/react_phone-catalog/static/media/ArrowRight.e3f421f40d0712b97b71ce3c7b98032a.svg",
     "static/media/ArrowLeft.svg": "/react_phone-catalog/static/media/ArrowLeft.a2f47796edd4fd81904bd5e6f9c4d8ad.svg",
-    "static/media/white.svg": "/react_phone-catalog/static/media/white.8906579e0cfde4d5637445b268c53062.svg",
-    "static/media/dark.svg": "/react_phone-catalog/static/media/dark.e6e44a05386aff646a5e8e6596eaac90.svg",
     "static/media/Minus.svg": "/react_phone-catalog/static/media/Minus.cecb4be39afa7b933ec169dd495a73ff.svg",
     "index.html": "/react_phone-catalog/index.html",
-    "static/media/Search.svg": "/react_phone-catalog/static/media/Search.a6272dbafd39340b08eef5d3d6711933.svg",
     "static/media/getFetch.cjs": "/react_phone-catalog/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.adcafaab.css.map": "/react_phone-catalog/static/css/main.adcafaab.css.map",
-    "main.394dbb1c.js.map": "/react_phone-catalog/static/js/main.394dbb1c.js.map"
+    "static/media/Search.svg": "/react_phone-catalog/static/media/Search.6bc58f9b30c941000c3df8c9684fe09d.svg",
+    "main.d90d06d1.css.map": "/react_phone-catalog/static/css/main.d90d06d1.css.map",
+    "main.3fc4534d.js.map": "/react_phone-catalog/static/js/main.3fc4534d.js.map"
   },
   "entrypoints": [
-    "static/css/main.adcafaab.css",
-    "static/js/main.394dbb1c.js"
+    "static/css/main.d90d06d1.css",
+    "static/js/main.3fc4534d.js"
   ]
 }
